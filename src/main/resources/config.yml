@@ -1,0 +1,5 @@
+# Config file for MinecraftRegionStats
+
+region-radius: 50  # The radius of the region for various features
+killstreak-reward: 10  # The reward given at a certain killstreak level
+death-message: true  # Whether to announce a death in the chat
